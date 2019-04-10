@@ -4,7 +4,16 @@ public class TacoTruck {
 
         System.out.println("Taco Truck");
 
+        displayTacoTruck();
 
+
+
+
+
+
+
+    }
+    public static void displayTacoTruck(){
         System.out.println("________________________________________");
         System.out.println("|                                      | ");
         System.out.println("|                                      |");
@@ -18,7 +27,6 @@ public class TacoTruck {
         System.out.println("|                                                     |");
         System.out.println("|      _______                          _______       |");
         System.out.println("|_______|  0  |__________________________|  0  |______|");
-
 
     }
 }

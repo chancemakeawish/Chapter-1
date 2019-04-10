@@ -20,6 +20,6 @@ public class TableAndChairs {
         System.out.println("I        I    G                   G     I        I");
         System.out.println("R        R    !                   !     R        R");
 
-        System.out.println("I bUILD THE cHAIERS")
+        System.out.println("I bUILD THE cHAIERS");
     }
 }
