@@ -3,7 +3,7 @@ public class TableAndChairs {
     //Date: 04/09/2019
     //Projects: Tables and Chairs
 
-    public static void main(String[] Args){
+    public static void main(String[] args){
 
         System.out.println("Building Some Tables And Chairs");
         System.out.println("\n\n\n\n");
